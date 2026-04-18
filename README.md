@@ -5,8 +5,9 @@
 
  ## Business Context
 
- Retail lenders face growing pressure to monitor credit portfolio health proactively. For a lender operating at scale, the inability to rapidly segment risk exposure by borrower profile, product type, or geography creates both capital efficiency gaps and regulatory reporting risk under Basel III.
- PortfolioGuard delivers an on-demand credit portfolio intelligence tool - a risk-tiered scorecard and probability of default model - enabling Credit Risk and Portfolio Management teams to identify concentration risk and flag high-PD segments before losses materialise.
+Retail lenders face growing pressure to monitor credit portfolio health proactively. For a lender operating at scale, the inability to rapidly segment risk exposure by borrower profile, product type, or geography creates both capital efficiency gaps and regulatory reporting risk under Basel III.
+
+PortfolioGuard delivers an on-demand credit portfolio intelligence tool - a risk-tiered scorecard and probability of default model - enabling Credit Risk and Portfolio Management teams to identify concentration risk and flag high-PD segments before losses materialise.
 ---
 
 ## What's Built
