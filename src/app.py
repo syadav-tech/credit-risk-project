@@ -108,8 +108,7 @@ if page == "Portfolio Overview":
             x = 'count',
             y = 'purpose',
             orientation = 'h',
-            color = 'count',
-            color_continuous_scale = 'Viridis',
+            color_discrete_sequence = ['#2471a3'],
             labels = {'count':'Number of Loans','purpose':'Loan Purpose'}
         )
         fig_purpose.update_layout(
